@@ -1,6 +1,10 @@
 # tv_attachs
 
-Especial para sus SV's PVP'S - GANG WARS - EVENTOS.
+Very basic and simple script.
+*Script muy básico y sencillo.*
+
+Special for your SV's PVP'S - GANG WARS - EVENTS.
+*Especial para sus SV's PVP'S - GANG WARS - EVENTOS.*
 
 
 **[EN]**
